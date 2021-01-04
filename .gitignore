@@ -1,0 +1,7 @@
+
+# Logs and datasets #
+######################
+*.log
+*.txt
+*.npy
+*.pth.tar
